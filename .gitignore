@@ -3,6 +3,14 @@ autom4te.cache/*
 *.swp
 config.h
 config.status
+Makefile
+Makefile.in
+config.h.in
+config.log
+configure
+depcomp
+install-sh
+missing
 .deps/
 /src/Makefile
 /src/*.o
