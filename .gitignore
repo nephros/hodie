@@ -17,3 +17,4 @@ missing
 /src/*.o
 /src/hodie
 stamp-*
+compile
